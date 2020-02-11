@@ -1,0 +1,10 @@
+{
+    "name": "zonuexe/phperkaigi-generator",
+    "require": {
+        "php": "^7.4",
+        "psy/psysh": "^0.9.12"
+    },
+    "autoload": {
+        "files": ["prime.php", "stream.php", "generator.php"]
+    }
+}
